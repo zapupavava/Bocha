@@ -1,0 +1,10 @@
+C:\Users\kosti\source\repos\SSS\SSS\obj\Debug\SSS.csproj.AssemblyReference.cache
+C:\Users\kosti\source\repos\SSS\SSS\obj\Debug\SSS.Form1.resources
+C:\Users\kosti\source\repos\SSS\SSS\obj\Debug\SSS.Properties.Resources.resources
+C:\Users\kosti\source\repos\SSS\SSS\obj\Debug\SSS.csproj.GenerateResource.cache
+C:\Users\kosti\source\repos\SSS\SSS\obj\Debug\SSS.csproj.CoreCompileInputs.cache
+C:\Users\kosti\source\repos\SSS\SSS\bin\Debug\SSS.exe.config
+C:\Users\kosti\source\repos\SSS\SSS\bin\Debug\SSS.exe
+C:\Users\kosti\source\repos\SSS\SSS\bin\Debug\SSS.pdb
+C:\Users\kosti\source\repos\SSS\SSS\obj\Debug\SSS.exe
+C:\Users\kosti\source\repos\SSS\SSS\obj\Debug\SSS.pdb
